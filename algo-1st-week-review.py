@@ -1,7 +1,7 @@
 #numpy review
 import numpy as np
 A = np.random.normal(25, 5, 10)
-print(a)
+print(A)
 
 #list review
 x = [1, 2, 3, 4, 5, 6]
